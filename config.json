@@ -2,5 +2,5 @@
   "temu_link": "https://temu.com/s/xxxxxx",
   "event_title": "Limited Sponsor Event",
   "spin_enabled": true,
-  "maintenance": false
+  "maintenance": true
 }
